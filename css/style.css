@@ -12,7 +12,7 @@
 /*------------ Forside -----------------*/
 .festival_teaser_sec {
   overflow: hidden;
-  max-height: 10px;
+  max-height: 100px;
 }
 
 .countdown_sec {
