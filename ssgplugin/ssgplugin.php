@@ -11,7 +11,7 @@ function beskedfunktion(){
 
     <div class="countdown_sec">
       <h1>UNDER GADEN</h1>
-      <h2>- FESTIVALLEN STARTER OM</h2>
+      <h2>- STUDENT SURVIVAL GUIDE COUNTDOWN</h2>
       <div class="countdown_container">
           <div class="countdown">
               <div id="day">Dage</div>
