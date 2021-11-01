@@ -5,11 +5,9 @@
 */
 
 function beskedfunktion(){
-    $mycode = '<section id="mysection">
-    <section class="festival_teaser_sec">
+    $mycode = ' <section class="festival_teaser_sec">
 
-    <div class="countdown_sec">
-      <h1>Next event in</h1>
+      <h9 id="pluginhead">Next event in</h9>
       <div class="countdown_container">
           <div class="countdown">
               <div id="day">Dage</div>
