@@ -5,7 +5,7 @@
 document.getElementById("mysection").innerHTML = Date();*/
 
 
-var countDate = new Date('December 17, 2021 00:00:00').getTime();
+var countDate = new Date('November 18, 2021 00:00:00').getTime();
 
 function newYear() {
     var now = new Date().getTime();
