@@ -9,7 +9,7 @@ function beskedfunktion(){
     <section class="festival_teaser_sec">
 
     <div class="countdown_sec">
-      <h1>STAND UP COMEDY</h1>
+      <h1>Next event in</h1>
       <div class="countdown_container">
           <div class="countdown">
               <div id="day">Dage</div>
