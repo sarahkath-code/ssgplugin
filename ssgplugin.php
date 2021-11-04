@@ -5,7 +5,7 @@
 */
 
 function beskedfunktion(){
-    $mycode = ' <section class="festival_teaser_sec">
+    $mycode = ' <section class="ssg_sec">
 
       <h9 id="pluginhead">Next event in</h9>
       <div class="countdown_container">
