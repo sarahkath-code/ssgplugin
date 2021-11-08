@@ -1,6 +1,6 @@
 /* Javascript for ssgplugin*/
 
-var countDate = new Date('November 18, 2021 00:00:00').getTime();
+var countDate = new Date('November 21, 2021 00:00:00').getTime();
 
 function newYear() {
     var now = new Date().getTime();
